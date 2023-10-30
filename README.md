@@ -1,2 +1,2 @@
 # Abstractism
-This method describe cross-entropy operator across euclidean functions.
+This method describe cross-entropy operator on euclidean functions.
